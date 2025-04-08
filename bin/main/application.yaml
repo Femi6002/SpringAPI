@@ -1,0 +1,9 @@
+spring:
+    data:
+        mongodb:
+            username: femzy
+            password: femzy
+            host: localhost
+            port: 27018
+            database: course_db
+            authentication-database: admin
